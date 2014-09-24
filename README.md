@@ -1,5 +1,8 @@
 Intro to GIT
 ============
 
-Test
+*Test
+*test2
+
+Showing an example of remote edit
 
