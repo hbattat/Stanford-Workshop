@@ -2,8 +2,9 @@
 Intro to GIT
 ============
 
-*Test
-*test2
+local edit - causing some trouble
+* Test
+* test2
 
 Showing an example of remote edit
 
