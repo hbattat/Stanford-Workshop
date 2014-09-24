@@ -2,8 +2,7 @@
 Intro to GIT
 ============
 
-Change by colleague
-
+Change by colleague - FIXED
 *Test
 *test2
 
