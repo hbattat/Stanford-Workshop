@@ -11,3 +11,5 @@ Showing an example of remote edit
 Web edit
 
 # Foo Feature
+
+Demo of Stash
